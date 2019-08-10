@@ -1,6 +1,6 @@
-# DEFCON27
+# DEFCON27 Badge Source
 
-These files are pulled directly from the DEFCON media server without modificatoins.
+These files are pulled directly from the DEFCON media server without modification.
 
 https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20badge/
 
